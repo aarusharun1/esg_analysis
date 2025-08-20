@@ -1,0 +1,276 @@
+,Company Name,Ticker
+1,AAK AB,AAK.ST
+2,ABB Ltd,ABBN.SW
+3,Accenture PLC,ACN
+4,Acciona SA,ANA.MC
+5,Adidas AG,ADS.DE
+6,Adobe Systems Inc,ADBE
+7,Advantech Co Ltd,2395.TW
+8,Aeroports de Paris,ADP.PA
+9,Agilent Technologies Inc,A
+10,Agnico Eagle Mines Ltd,AEM.TO
+11,Akzo Nobel NV,AKZA.AS
+12,Algonquin Power & Utilities Corp,AQN.TO
+13,Allianz SE,ALV.DE
+14,Alphabet Inc,GOOGL
+15,Alstom SA,ALO.PA
+16,Amadeus IT Group SA,AMS.MC
+17,American Water Works Company Inc,AWK
+18,Amundi SA,AMUN.PA
+19,Analog Devices Inc,ADI
+20,Anglo American PLC,AAL.L
+21,ANSYS; Inc.,ANSS
+22,Apple Inc,AAPL
+23,Applied Materials Inc,AMAT
+24,Arcelik AS,ARCLK.IS
+25,ASM International NV,ASM.AS
+26,ASML Holding NV,ASML.AS
+27,Assicurazioni Generali SpA,G.MI
+28,Astellas Pharma Inc,4503.T
+29,AstraZeneca PLC,AZN.L
+30,Atea ASA,ATEA.OL
+31,Atlas Copco AB,ATCO-A.ST
+32,Australia & New Zealand Banking Group Ltd,ANZ.AX
+33,Autodesk Inc,ADSK
+34,Aviva PLC,AV.L
+35,AXA SA,CS.PA
+36,Banco do Brasil SA,BBAS3.SA
+37,Banco Santander Brasil SA,BSBR
+38,Bank of America Corp,BAC
+39,Bank of China Ltd,3988.HK
+40,Bank of Montreal,BMO.TO
+41,BASF SE,BAS.DE
+42,Bayerische Motoren Werke AG,BMW.DE
+43,BCE Inc,BCE.TO
+44,Beazley PLC,BEZ.L
+45,Beijing Enterprises Water Group Ltd,0371.HK
+46,BG Group PLC,BG
+47,Biogen Inc,BIIB
+48,Biomerieux SA,BIM.PA
+49,BNP Paribas SA,BNP.PA
+50,Borgwarner Inc,BWA
+51,Brambles Ltd,BXB.AX
+52,BT Group PLC,BT-A.L
+53,Byd Co Ltd,1211.HK
+54,Cameco Corp,CCO.TO
+55,Campbell Soup Co,CPB
+56,Canadian Imperial Bank of Commerce,CM.TO
+57,Canadian National Railway Co,CNR.TO
+58,Canadian Pacific Railway Ltd,CP.TO
+59,Canadian Solar Inc,CSIQ
+60,Canadian Tire Corporation,CTC-A.TO
+61,CapitaLand Investment Ltd,5NU.F
+62,Cascades Inc,CAS.TO
+63,Celestica Inc,CLS
+64,CEMIG,CMIG4.SA
+65,Centrica PLC,CNA.L
+66,Cisco Systems Inc,CSCO
+67,City Developments Ltd,C09.SI
+68,Clean Harbors Inc,CLH
+69,Coca-Cola Enterprises Inc,KO
+70,Coca-Cola European Partners PLC,CCEP
+71,Cogeco Communications Inc,CCA.TO
+72,Colgate-Palmolive Co,CL
+73,Coloplast A/S,COLO-B.CO
+74,Comerica Inc,CMA
+75,Commerzbank AG,CBK.DE
+76,Commonwealth Bank of Australia,CBA.AX
+77,Credit Agricole SA,ACA.PA
+78,Danaher Corporation,DHR
+79,Danske Bank A/S,DANSKE.CO
+80,Dassault Systemes SE,DSY.PA
+81,Derwent London PLC,DLN.L
+82,Deutsche Boerse AG,DB1.DE
+83,Diageo PLC,DGE.L
+84,DNB ASA,DNB.OL
+85,Ecolab Inc,ECL
+86,EDP Renovaveis SA,EDPR.LS
+87,Edwards Lifesciences Corp,EW
+88,Eisai Co Ltd,4523.T
+89,Electrolux AB,ELUX-B.ST
+90,Eli Lilly and Co,LLY
+91,Elisa Oyj,ELISA.HE
+92,Enagas SA,ENG.MC
+93,Enbridge Inc,ENB.TO
+94,Enel SpA,ENEL.MI
+95,Engie Brasil Energia SA,EGIE3.SA
+96,Eni SpA,ENI.MI
+97,Enphase Energy Inc,ENPH
+98,Equinix Inc,EQIX
+99,ERG SpA,ERG.MI
+100,Essity AB,ESSITY-B.ST
+101,First Solar Inc,FSLR
+102,Fraport AG Frankfurt Airport Services Worldwide,FRA.DE
+103,Fresenius Medical Care AG & Co KGaA,FME.DE
+104,Galp Energia SGPS SA,GALP.LS
+105,General Electric Co,GE
+106,General Mills Inc,GIS
+107,Giant Manufacturing Co Ltd,9921.TW
+108,Gildan Activewear Inc,GIL.TO
+109,Gilead Sciences Inc,GILD
+110,GlaxoSmithKline plc,GSK
+111,Halma PLC,HLMA.L
+112,Hang Seng Bank Ltd,0011.HK
+113,Henkel AG & Co KGaA,HEN3.DE
+114,Hennes & Mauritz AB,HM-B.ST
+115,Hess Corp,HES
+116,Hewlett Packard Enterprise,HPE
+117,Holmen AB,HOLM-B.ST
+118,Honda Motor Co Ltd,7267.T
+119,HP Inc,HPQ
+120,Hydro One Ltd,H.TO
+121,Iberdrola SA,IBE.MC
+122,IGM Financial Inc,IGM.TO
+123,Industria de Diseno Textil SA,ITX.MC
+124,ING Groep NV,INGA.AS
+125,Ingersoll-Rand PLC,IR
+126,Insurance Australia Group Ltd,IAG.AX
+127,Intel Corp,INTC
+128,Intesa Sanpaolo SpA,ISP.MI
+129,Investec Ltd,INL.JO
+130,Itron Inc,ITRI
+131,Johnson & Johnson,JNJ
+132,Johnson Controls International PLC,JCI
+133,Kao Corp.,4452.T
+134,KB Financial Group Inc,105560.KS
+135,KBC Groep NV,KBC.BR
+136,Keppel Corp Ltd,BN4.SI
+137,Kering SA,KER.PA
+138,Kesko Oyj,KESKOA.HE
+139,KeyCorp,KEY
+140,Kone Oyj,KNEBV.HE
+141,Konica Minolta Inc,4902.T
+142,Koninklijke KPN NV,KPN.AS
+143,Koninklijke Philips NV,PHIA.AS
+144,Land Securities Group plc,LAND.L
+145,Legrand SA,LR.PA
+146,Lenovo Group Ltd,LNVGF
+147,LG Electronics Inc,066570.KS
+148,Li Auto Inc,LI
+149,Lloyds Banking Group plc,LLOY.L
+150,L'Oreal SA,OR.PA
+151,Manulife Financial Corp,MFC.TO
+152,Marks & Spencer Group PLC,MKS.L
+153,Maxeon Solar Technologies Ltd,MAXN
+154,McCormick & Company Inc,MKC
+155,Merck & Co Inc,MRK
+156,Merck KGaA,MRK.DE
+157,MetLife Inc,MET
+158,Metso Outotec,OUT1V.HE
+159,Microsoft Corp,MSFT
+160,National Australia Bank Ltd,NAB.AX
+161,Natura Cosmeticos SA,NTCO3.SA
+162,Natwest Group PLC,NWG.L
+163,NEC Corp,6701.T
+164,Neste Oyj,NESTE.HE
+165,Nestle SA,NESN.SW
+166,NIO Inc,NIO
+167,Nissan Motor Co Ltd,7201.T
+168,Nokia Oyj,NOKIA.HE
+169,Nordea Bank AB,NDA-SE.ST
+170,Nordex SE,NDX1.DE
+171,Novartis AG,NOVN.SW
+172,Novavax Inc,NVAX
+173,Novo Nordisk A/S,NOVO-B.CO
+174,Novozymes A/S,NVZMF
+175,NVIDIA Corp,NVDA
+176,Orkla ASA,ORK.OL
+177,Orsted A/S,ORSTED.CO
+178,OSRAM Licht AG,OSR.HM
+179,Owens Corning,OC
+180,Panasonic Corporation,6752.T
+181,Pandora A/S,PNDORA.CO
+182,Pearson PLC,PSON.L
+183,Peugeot SA,STLA
+184,Pfizer Inc,PFE
+185,Pirelli & C SpA,PIRC.MI
+186,PNC Financial Services,PNC
+187,POSCO,005490.KS
+188,Prologis Inc,PLD
+189,Prudential Financial Inc,PRU
+190,Puma SE,PUM.DE
+191,Quadient SA,QDT.PA
+192,Radius Recycling,RDUS
+193,Reckitt Benckiser Group PLC,RKT.L
+194,RELX PLC,REL.L
+195,Renault SA,RNO.PA
+196,Rexel SA,RXL.PA
+197,Ricoh Co Ltd,7752.T
+198,Risen Energy Co Ltd,300118.SZ
+199,Rivian Automotive; Inc,RIVN
+200,Rockwool A/S,ROCK-B.CO
+201,Royal Bank of Canada,RY.TO
+202,Salesforce.Com Inc,CRM
+203,Samsung SDI Co Ltd,006400.KS
+204,Sandvik AB,SAND.ST
+205,Sanofi SA,SAN.PA
+206,SAP SE,SAP.DE
+207,Schneider Electric SE,SU.PA
+208,Sekisui Chemical Co Ltd,4204.T
+209,Severn Trent PLC,SVT.L
+210,Shinhan Financial Group Co Ltd,055550.KS
+211,Siemens AG,SIE.DE
+212,Signify NV,LIGHT.AS
+213,Sims Ltd,SGM.AX
+214,Singapore Telecommunications Ltd,Z74.SI
+215,Skandinaviska Enskilda Banken AB,SEB-A.ST
+216,SMA Solar Technology AG,S92.DE
+217,Smiths Group PLC,SMIN.L
+218,Societe Generale SA,GLE.PA
+219,Solaredge Technologies Inc,SEDG
+220,Spectris plc,SXS.L
+221,Sprouts Farmers Market Inc,SFM
+222,SSE PLC,SSE.L
+223,Standard Bank Group Ltd,SBK.JO
+224,Stantec Inc,STN.TO
+225,StarHub Ltd,CC3.SI
+226,Statoil ASA,EQNR.OL
+227,Steel Dynamics Inc,STLD
+228,Storebrand ASA,STB.OL
+229,Sun Life Financial Inc,SLF
+230,Suncor Energy Inc.,SU.TO
+231,SunPower Corp,SPWRQ
+232,Svenska Cellulosa SCA AB,SCA-B.ST
+233,Svenska Handelsbanken AB,SHB-A.ST
+234,Swatch Group AG,UHR.SW
+235,Swiss Re AG,SREN.SW
+236,Sysmex Corp,6869.T
+237,Taiwan Cooperative Financial Holding Co Ltd,5880.TW
+238,Taiwan High Speed Rail Corp,2633.TW
+239,Taiwan Semiconductor,TSM
+240,Takeda Pharmaceutical Co Ltd,4502.T
+241,Tech Mahindra Ltd,TECHM.NS
+242,Teck Resources Ltd,TECK
+243,Telefonaktiebolaget LM Ericsson,ERIC-B.ST
+244,Telefonica Brasil SA,VIVT3.SA
+245,Telenor ASA,TEL.OL
+246,Telus Corp,T.TO
+247,Tesla Inc,TSLA
+248,Texas Instruments Inc,TXN
+249,Toronto-Dominion Bank/The,TD.TO
+250,Toyota Motor Corp.,7203.T
+251,Trane Technologies PLC,TT
+252,Ucb SA,UCB.BR
+253,Umicore SA,UMI.BR
+254,UniCredit SpA,UCG.MI
+255,Unilever PLC,ULVR.L
+256,United Utilities Group PLC,UU.L
+257,UPM-Kymmene OYJ,UPM.HE
+258,Valeo SA,FR.PA
+259,VERBUND AG,VER.VI
+260,Vestas Wind Systems A/S,VWS.CO
+261,Vitasoy International Holdings Ltd,0345.HK
+262,Vivendi SA,VIV.PA
+263,Voltronic Power Technology Corp.,6552.TW
+264,Wartsila Oyj Abp,WRT1V.HE
+265,Westpac Banking Corp,WBC.AX
+266,Wheaton Precious Metals Corp,WPM.TO
+267,Wolters Kluwer NV,WKL.AS
+268,Workday Inc,WDAY
+269,WSP Global Inc,WSP.TO
+270,Xerox Holdings Corp,XRX
+271,Xinyi Solar Holdings Ltd,0968.HK
+272,XPeng Inc,XPEV
+273,Yadea Group Holdings Ltd,1585.HK
+274,Yokogawa Electric Corp.,6841.T
+275,Zhuzhou CRRC Times Electric Co Ltd,3898.HK

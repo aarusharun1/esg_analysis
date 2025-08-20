@@ -1,0 +1,368 @@
+Company Name,Country,GICS Sector,Ticker
+Meta Platforms,USA,Communication Services,META
+Netflix,USA,Communication Services,NFLX
+T-Mobile US,USA,Communication Services,TMUS
+The Walt Disney Company,USA,Communication Services,DIS
+Verizon Communications,USA,Communication Services,VZ
+Spotify Technology,Sweden,Communication Services,SPOT
+Comcast Corporation,USA,Communication Services,CMCSA
+Charter Communications,USA,Communication Services,CHTR
+Baidu,China,Communication Services,BIDU
+Interpublic Group,USA,Communication Services,IPG
+Tencent,China,Communication Services,0700.HK
+China Mobile,China,Communication Services,0941.HK
+AT&T,USA,Communication Services,T
+Deutsche Telekom,Germany,Communication Services,DTE.DE
+China Telecom,China,Communication Services,0728.HK
+Bharti Airtel,India,Communication Services,BHARTIARTL.NS
+Orange,France,Communication Services,ORA.PA
+NTT,Japan,Communication Services,9432.T
+Vodafone,UK,Communication Services,VOD.L
+SoftBank,Japan,Communication Services,9984.T
+RELX,UK,Communication Services,RELX
+Prosus,Netherlands,Communication Services,PRX.AS
+Airbnb,USA,Communication Services,ABNB
+Sony,Japan,Communication Services,6758.T
+Thomson Reuters,Canada,Communication Services,TRI
+Fox,USA,Communication Services,FOXA
+Paramount Global,USA,Communication Services,PARA
+American Tower,USA,Communication Services,AMT
+BT Group,UK,Communication Services,BT-A.L
+Telefónica,Spain,Communication Services,TEF
+Amazon,USA,Consumer Discretionary,AMZN
+Tesla,USA,Consumer Discretionary,TSLA
+The Home Depot,USA,Consumer Discretionary,HD
+Alibaba Group,China,Consumer Discretionary,BABA
+Toyota Motor,Japan,Consumer Discretionary,TM
+McDonald’s,USA,Consumer Discretionary,MCD
+Booking Holdings,USA,Consumer Discretionary,BKNG
+DoorDash,USA,Consumer Discretionary,DASH
+Royal Caribbean Cruises,USA,Consumer Discretionary,RCL
+Carnival Corporation,USA,Consumer Discretionary,CCL
+Nike,USA,Consumer Discretionary,NKE
+eBay,USA,Consumer Discretionary,EBAY
+Starbucks,USA,Consumer Discretionary,SBUX
+Ford Motor,USA,Consumer Discretionary,F
+General Motors,USA,Consumer Discretionary,GM
+Yum! Brands,USA,Consumer Discretionary,YUM
+Chipotle Mexican Grill,USA,Consumer Discretionary,CMG
+Marriott International,USA,Consumer Discretionary,MAR
+Hilton Worldwide,USA,Consumer Discretionary,HLT
+Tapestry,USA,Consumer Discretionary,TPR
+Expedia Group,USA,Consumer Discretionary,EXPE
+Wayfair,USA,Consumer Discretionary,W
+Ralph Lauren,USA,Consumer Discretionary,RL
+Target,USA,Consumer Discretionary,TGT
+Best Buy,USA,Consumer Discretionary,BBY
+Lowe's Companies,USA,Consumer Discretionary,LOW
+Pinduoduo,China,Consumer Discretionary,PDD
+JD.com,China,Consumer Discretionary,JD
+BYD Company,China,Consumer Discretionary,1211.HK
+Volkswagen,Germany,Consumer Discretionary,VOW3.DE
+Walmart,USA,Consumer Staples,WMT
+Costco Wholesale,USA,Consumer Staples,COST
+Procter & Gamble,USA,Consumer Staples,PG
+Coca‑Cola,USA,Consumer Staples,KO
+PepsiCo,USA,Consumer Staples,PEP
+Unilever,UK,Consumer Staples,UL
+Altria Group,USA,Consumer Staples,MO
+Philip Morris International,USA,Consumer Staples,PM
+Kroger,USA,Consumer Staples,KR
+Kellanova,USA,Consumer Staples,K
+Mondelez,USA,Consumer Staples,MDLZ
+Colgate-Palmolive,USA,Consumer Staples,CL
+Kimberly-Clark,USA,Consumer Staples,KMB
+General Mills,USA,Consumer Staples,GIS
+Tyson Foods,USA,Consumer Staples,TSN
+Hormel Foods,USA,Consumer Staples,HRL
+Danone,France,Consumer Staples,BN.PA
+Reckitt Benckiser,UK,Consumer Staples,RKT.L
+Church & Dwight,USA,Consumer Staples,CHD
+Constellation Brands,USA,Consumer Staples,STZ
+Estee Lauder,USA,Consumer Staples,EL
+Clorox,USA,Consumer Staples,CLX
+Keurig Dr Pepper,USA,Consumer Staples,KDP
+Campbell Soup,USA,Consumer Staples,CPB
+Conagra Brands,USA,Consumer Staples,CAG
+Nestlé,Switzerland,Consumer Staples,NESN.SW
+Diageo,UK,Consumer Staples,DGE.L
+J.M. Smucker,USA,Consumer Staples,SJM
+Bunge Global,USA,Consumer Staples,BG
+ExxonMobil,USA,Energy,XOM
+Chevron,USA,Energy,CVX
+BP,UK,Energy,BP
+Shell,UK,Energy,SHEL
+TotalEnergies,France,Energy,TTE
+ConocoPhillips,USA,Energy,COP
+Occidental Petroleum,USA,Energy,OXY
+Baker Hughes,USA,Energy,BKR
+Halliburton,USA,Energy,HAL
+Cheniere Energy,USA,Energy,LNG
+Devon Energy,USA,Energy,DVN
+EOG Resources,USA,Energy,EOG
+APA Corporation,USA,Energy,APA
+Valero Energy,USA,Energy,VLO
+Phillips 66,USA,Energy,PSX
+Hess Corp,USA,Energy,HES
+Coterra Energy,USA,Energy,CTRA
+Murphy Oil,USA,Energy,MUR
+ONEOK,USA,Energy,OKE
+Williams Companies,USA,Energy,WMB
+Kinder Morgan,USA,Energy,KMI
+TC Energy,Canada,Energy,TRP
+Enbridge,Canada,Energy,ENB
+Repsol,Spain,Energy,REP.MC
+Equinor,Norway,Energy,EQNR
+Suncor Energy,Canada,Energy,SU
+Cenovus Energy,Canada,Energy,CVE
+Pembina Pipeline,Canada,Energy,PBA
+JPMorgan Chase,USA,Financials,JPM
+Bank of America,USA,Financials,BAC
+Wells Fargo,USA,Financials,WFC
+Goldman Sachs,USA,Financials,GS
+Morgan Stanley,USA,Financials,MS
+Citigroup,USA,Financials,C
+American Express,USA,Financials,AXP
+Visa,USA,Financials,V
+Mastercard,USA,Financials,MA
+Charles Schwab,USA,Financials,SCHW
+UBS,Switzerland,Financials,UBS
+HSBC,UK,Financials,HSBC
+BNP Paribas,France,Financials,BNP.PA
+Société Générale,France,Financials,GLE.PA
+Barclays,UK,Financials,BARC.L
+Deutsche Bank,Germany,Financials,DBK.DE
+BlackRock,USA,Financials,BLK
+Allianz,Germany,Financials,ALV.DE
+AXA,France,Financials,CS.PA
+MetLife,USA,Financials,MET
+Prudential,UK,Financials,PRU.L
+China Construction Bank,China,Financials,0939.HK
+ICBC,China,Financials,1398.HK
+Ping An Insurance,China,Financials,2318.HK
+Munich Re,Germany,Financials,MUV2.DE
+Chubb,USA,Financials,CB
+Travelers,USA,Financials,TRV
+Manulife,Canada,Financials,MFC
+UnitedHealth Group,USA,Health Care,UNH
+Pfizer,USA,Health Care,PFE
+Merck,USA,Health Care,MRK
+AbbVie,USA,Health Care,ABBV
+Eli Lilly,USA,Health Care,LLY
+Amgen,USA,Health Care,AMGN
+Bristol-Myers Squibb,USA,Health Care,BMY
+Johnson & Johnson,USA,Health Care,JNJ
+Gilead Sciences,USA,Health Care,GILD
+CVS Health,USA,Health Care,CVS
+Cigna,USA,Health Care,CI
+Elevance Health,USA,Health Care,ELV
+Humana,USA,Health Care,HUM
+McKesson,USA,Health Care,MCK
+Cardinal Health,USA,Health Care,CAH
+GE Healthcare,USA,Health Care,GEHC
+Centene Corporation,USA,Health Care,CNC
+Walgreens Boots Alliance,USA,Health Care,WBA
+Regeneron,USA,Health Care,REGN
+Novo Nordisk,Denmark,Health Care,NVO
+Sanofi,France,Health Care,SNY
+AstraZeneca,UK,Health Care,AZN
+Bayer,Germany,Health Care,BAYN.DE
+Biogen,USA,Health Care,BIIB
+Moderna,USA,Health Care,MRNA
+Zoetis,USA,Health Care,ZTS
+IQVIA,USA,Health Care,IQV
+DaVita,USA,Health Care,DVA
+Illumina,USA,Health Care,ILMN
+HCA Healthcare,USA,Health Care,HCA
+Caterpillar,USA,Industrials,CAT
+Union Pacific,USA,Industrials,UNP
+Raytheon Technologies,USA,Industrials,RTX
+Lockheed Martin,USA,Industrials,LMT
+General Electric,USA,Industrials,GE
+Northrop Grumman,USA,Industrials,NOC
+Honeywell,USA,Industrials,HON
+Waste Management,USA,Industrials,WM
+Deere & Company,USA,Industrials,DE
+Boeing,USA,Industrials,BA
+3M,USA,Industrials,MMM
+Illinois Tool Works,USA,Industrials,ITW
+Eaton,Ireland,Industrials,ETN
+Parker Hannifin,USA,Industrials,PH
+Cummins,USA,Industrials,CMI
+Carrier Global,USA,Industrials,CARR
+Trane Technologies,Ireland,Industrials,TT
+Fortive,USA,Industrials,FTV
+Textron,USA,Industrials,TXT
+Ball Corporation,USA,Industrials,BALL
+Pentair,USA,Industrials,PNR
+Jacobs,USA,Industrials,J
+Otis Worldwide,USA,Industrials,OTIS
+Howmet Aerospace,USA,Industrials,HWM
+Rockwell Automation,USA,Industrials,ROK
+Allegion,USA,Industrials,ALLE
+Stanley Black & Decker,USA,Industrials,SWK
+Nordson,USA,Industrials,NDSN
+Xylem,USA,Industrials,XYL
+Apple,USA,Information Technology,AAPL
+Microsoft,USA,Information Technology,MSFT
+Nvidia,USA,Information Technology,NVDA
+Intel,USA,Information Technology,INTC
+AMD,USA,Information Technology,AMD
+Salesforce,USA,Information Technology,CRM
+Oracle,USA,Information Technology,ORCL
+Cisco,USA,Information Technology,CSCO
+Broadcom,USA,Information Technology,AVGO
+Texas Instruments,USA,Information Technology,TXN
+Adobe,USA,Information Technology,ADBE
+ServiceNow,USA,Information Technology,NOW
+PayPal,USA,Information Technology,PYPL
+ASML,Netherlands,Information Technology,ASML
+SAP,Germany,Information Technology,SAP
+Infosys,India,Information Technology,INFY
+Wipro,India,Information Technology,WIT
+HP Inc,USA,Information Technology,HPQ
+Dell Technologies,USA,Information Technology,DELL
+FIS,USA,Information Technology,FIS
+FISERV,USA,Information Technology,FI
+Accenture,Ireland,Information Technology,ACN
+EPAM Systems,USA,Information Technology,EPAM
+Synopsys,USA,Information Technology,SNPS
+Cadence Design,USA,Information Technology,CDNS
+Micron,USA,Information Technology,MU
+Seagate,USA,Information Technology,STX
+Western Digital,USA,Information Technology,WDC
+Palantir,USA,Information Technology,PLTR
+GlobalFoundries,USA,Information Technology,GFS
+Dow Inc.,USA,Materials,DOW
+DuPont,USA,Materials,DD
+Newmont,USA,Materials,NEM
+Freeport-McMoRan,USA,Materials,FCX
+Sherwin-Williams,USA,Materials,SHW
+Ecolab,USA,Materials,ECL
+International Paper,USA,Materials,IP
+Albemarle,USA,Materials,ALB
+CF Industries,USA,Materials,CF
+Celanese,USA,Materials,CE
+Eastman Chemical,USA,Materials,EMN
+PPG Industries,USA,Materials,PPG
+Air Products,USA,Materials,APD
+Linde,Ireland,Materials,LIN
+Nucor,USA,Materials,NUE
+Steel Dynamics,USA,Materials,STLD
+Vulcan Materials,USA,Materials,VMC
+Martin Marietta,USA,Materials,MLM
+Mosaic,USA,Materials,MOS
+FMC Corp,USA,Materials,FMC
+BASF,Germany,Materials,BASFY
+Glencore,UK,Materials,GLEN.L
+Anglo American,UK,Materials,AAL.L
+Rio Tinto,UK,Materials,RIO.L
+Vale,Brazil,Materials,VALE
+ArcelorMittal,Luxembourg,Materials,MT
+Olin Corp,USA,Materials,OLN
+Simon Property Group,USA,Real Estate,SPG
+Prologis,USA,Real Estate,PLD
+Equity Residential,USA,Real Estate,EQR
+AvalonBay Communities,USA,Real Estate,AVB
+Public Storage,USA,Real Estate,PSA
+Welltower,USA,Real Estate,WELL
+Digital Realty,USA,Real Estate,DLR
+Realty Income,USA,Real Estate,O
+Vornado Realty Trust,USA,Real Estate,VNO
+SL Green Realty,USA,Real Estate,SLG
+Boston Properties,USA,Real Estate,BXP
+UDR Inc.,USA,Real Estate,UDR
+Crown Castle,USA,Real Estate,CCI
+Iron Mountain,USA,Real Estate,IRM
+Camden Property,USA,Real Estate,CPT
+Alexandria Real Estate,USA,Real Estate,ARE
+Healthpeak Properties,USA,Real Estate,DOC
+Invitation Homes,USA,Real Estate,INVH
+Mid-America Apartment,USA,Real Estate,MAA
+Sun Communities,USA,Real Estate,SUI
+Essex Property Trust,USA,Real Estate,ESS
+Extra Space Storage,USA,Real Estate,EXR
+Omega Healthcare,USA,Real Estate,OHI
+Brixmor Property,USA,Real Estate,BRX
+Kilroy Realty,USA,Real Estate,KRC
+NextEra Energy,USA,Utilities,NEE
+Duke Energy,USA,Utilities,DUK
+Southern Company,USA,Utilities,SO
+Dominion Energy,USA,Utilities,D
+Exelon,USA,Utilities,EXC
+American Electric Power,USA,Utilities,AEP
+PG&E Corporation,USA,Utilities,PCG
+Xcel Energy,USA,Utilities,XEL
+Consolidated Edison,USA,Utilities,ED
+Sempra Energy,USA,Utilities,SRE
+PPL Corp,USA,Utilities,PPL
+Entergy Corp,USA,Utilities,ETR
+FirstEnergy,USA,Utilities,FE
+Edison International,USA,Utilities,EIX
+CenterPoint Energy,USA,Utilities,CNP
+NRG Energy,USA,Utilities,NRG
+Atmos Energy,USA,Utilities,ATO
+NiSource,USA,Utilities,NI
+CMS Energy,USA,Utilities,CMS
+AES Corporation,USA,Utilities,AES
+Public Service Enterprise,USA,Utilities,PEG
+Evergy,USA,Utilities,EVRG
+Alliant Energy,USA,Utilities,LNT
+UGI Corporation,USA,Utilities,UGI
+Portland General Electric,USA,Utilities,POR
+IDACORP,USA,Utilities,IDA
+Ahold Delhaize,Netherlands,Consumer Staples,AD.AS
+Wesfarmers,Australia,Consumer Staples,WES.AX
+Siemens,Germany,Industrials,SIE.DE
+Mitsubishi Heavy Industries,Japan,Industrials,7011.T
+Volvo Group,Sweden,Industrials,VOLV-B.ST
+Kone,Finland,Industrials,KNEBV.HE
+Eni,Italy,Energy,E
+Banco Santander,Spain,Financials,SAN
+ING Group,Netherlands,Financials,INGA.AS
+Macquarie Group,Australia,Financials,MQG.AX
+Toronto-Dominion Bank,Canada,Financials,TD
+Vonovia,Germany,Real Estate,VNA.DE
+CapitaLand Investment,Singapore,Real Estate,9CI.SI
+Enel,Italy,Utilities,ENEL.MI
+Iberdrola,Spain,Utilities,IBE.MC
+Fortum,Finland,Utilities,FORTUM.HE
+E.ON,Germany,Utilities,EOAN.DE
+Rogers Communications,Canada,Communication Services,RCI
+Telstra,Australia,Communication Services,TLS.AX
+Adidas,Germany,Consumer Discretionary,ADS.DE
+H&M,Sweden,Consumer Discretionary,HM-B.ST
+Fast Retailing,Japan,Consumer Discretionary,9983.T
+Roche,Switzerland,Health Care,ROG.SW
+Takeda Pharmaceutical,Japan,Health Care,4502.T
+UCB,Belgium,Health Care,UCB.BR
+Keyence,Japan,Information Technology,6861.T
+Tata Consultancy Services,India,Information Technology,TCS.NS
+Teck Resources,Canada,Materials,TECK
+Yara International,Norway,Materials,YAR.OL
+Woodside Energy,Australia,Energy,WDS.AX
+Neste,Finland,Energy,NESTE.HE
+Reliance Industries,India,Communication Services,RELIANCE.NS
+STC,Saudi Arabia,Communication Services,STC
+BCE Inc.,Canada,Communication Services,BCE
+Inditex,Spain,Consumer Discretionary,ITX.MC
+Ferrari,Italy,Consumer Discretionary,RACE
+LVMH,France,Consumer Discretionary,MC.PA
+Suzuki Motor,Japan,Consumer Discretionary,7269.T
+Xiaomi,China,Consumer Discretionary,1810.HK
+Kweichow Moutai,China,Consumer Staples,600519.SS
+L’Oréal,France,Consumer Staples,OR.PA
+AB InBev,Belgium,Consumer Staples,ABI.BR
+Nongfu Spring,China,Consumer Staples,9633.HK
+Kirin Holdings,Japan,Consumer Staples,2503.T
+Saudi Aramco,Saudi Arabia,Energy,2222.SR
+CNOOC,China,Energy,0883.HK
+CFRIChemont,Switzerland,Materials,CFR.SW
+SABIC,Saudi Arabia,Materials,2010.SR
+HDFC Bank,India,Financials,HDFCBANK.NS
+Commonwealth Bank of Australia,Australia,Financials,CBA.AX
+Hong Kong Exchanges,Hong Kong,Financials,0388.HK
+TSMC,Taiwan,Information Technology,2330.TW
+Arm Holdings,UK,Information Technology,ARM
+Link REIT,Hong Kong,Real Estate,0823.HK
+Yangtze Power,China,Utilities,600900.SS
