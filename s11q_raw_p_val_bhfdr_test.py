@@ -7,7 +7,6 @@ df = pd.read_csv("outputs/s11_esg_sector_comparison_relevant_metrics.csv")
 
 pcol = "T-Test P-Value"
 
-# Keep only rows with a p-value
 mask = df[pcol].notna()
 pvals = df.loc[mask, pcol].astype(float).values
 
@@ -22,3 +21,4 @@ df.to_csv("outputs/s11q_BHFDR_test/s11_esg_sector_comparison_relevant_metrics_wi
 print("Total tests:", len(pvals))
 print("Significant at raw p<0.05:", int((pvals < 0.05).sum()))
 print("Significant after FDR (BH) q<0.05:", int(rej.sum()))
+
